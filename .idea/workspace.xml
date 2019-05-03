@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d9c754-1b1f-4d0d-adfd-0b15d1cb7aa4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/android2019.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/java/com/example/myapplication/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/java/com/example/myapplication/HeroAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/java/com/example/myapplication/MyIntent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/ahmad_dahlan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/ahmad_yani.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/bung_tomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/gatot_subroto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/ki_hadjar_dewantara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/mohammad_hatta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/sudirman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/sukarno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/supomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/drawable/tan_malaka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/layout/activity_hero_adapter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/layout/activity_my_intent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListView-Latihan/app/src/main/res/layout/item_hero.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/Hero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/HeroAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListView-Latihan/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ListView-Latihan/res/layout/item_hero.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ListView-Latihan/java/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ListView-Latihan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ListView-Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ListView-Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android2019" type="462c0819:PsiDirectoryNode" />
+              <item name="ListView-Latihan" type="462c0819:PsiDirectoryNode" />
+              <item name="slides" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d9c754-1b1f-4d0d-adfd-0b15d1cb7aa4" name="Default Changelist" comment="" />
+      <created>1556806965833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556806965833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16490166" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32872504" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32872504" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Preview" order="3" visible="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/ListView-Latihan.iml" />
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/java/HeroAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListView-Latihan/res/layout/item_hero.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
