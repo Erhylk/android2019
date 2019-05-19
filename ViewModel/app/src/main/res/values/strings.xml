@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyViewModel</string>
+    <string name="insert_city">Masukkan Kota</string>
+    <string name="id_makassar_jakarta_surabaya">1622786,1625822,1642911</string>
+    <string name="search">Cari</string>
+    <string name="name">Nama</string>
+    <string name="temperature">Suhu</string>
+    <string name="description">Deskripsi</string>
+</resources>
